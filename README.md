@@ -87,6 +87,6 @@ fmt.Printf("#%v",r)
 
 ### Backwards Compatibility
 
-As of 01/02/2016, This is currently under active development. Although I will try my best, there is definitely no garantee of BC breaks during the early stages of my work. Use fully at your own risk.
+As of 01/02/2016, This is currently under active development. Although I will try my best, there is definitely no garantee of me not breaking BC during the early stages of my work. Use fully at your own risk.
 
 
