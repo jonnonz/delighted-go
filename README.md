@@ -1,4 +1,5 @@
 # delighted-go
+[![Circle CI](https://circleci.com/gh/jonnonz/delighted-go/tree/master.svg?style=svg)](https://circleci.com/gh/jonnonz/delighted-go/tree/master)
 
 ___
 Simple Golang API Client for [Delighted](https://delighted.com). Currently supports the following. 
